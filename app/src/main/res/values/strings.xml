@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MscPlanSport</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_username">username</string>
+    <string name="action_sign_in">sign_in</string>
+    <string name="prompt_surname">surname</string>
+    <string name="prompt_name">name</string>
+    <string name="prompt_email">email</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="company">Register as company</string>
+    <string name="title_activity_user_maps">Map</string>
+    <string name="prompt_country">country</string>
+    <string name="prompt_sport">sport</string>
+    <string name="Preferences">Preferences</string>
+    <string name="Event_list">Events</string>
+    <string name="Map">Map</string>
+
+    <string name="startGps">Permit to acquire position by your GPS</string>
+    <string name="save">Save</string>
+    <string name="joined_events">Joined events</string>
+    <string name="disjoin_event">Leave</string>
+    <string name="join_event">Join</string>
+    <string name="preferences">preferences</string>
+    <string name="eventList">events</string>
+    <string name="map">map</string>
+    <string name="covered_string">Indoor field</string>
+    <string name="no_covered_string">Outdoor field</string>
+    <string name="image_user_default">Image User</string>
+    <string name="info">Info</string>
+    <string name="partecipants">PARTECIPANTS</string>
+    <string name="msc20">MscPlanSport</string>
+    <string name="infoStructure">INFO STRUCTURE</string>
+    <string name="namestructure">Structure Name:</string>
+    <string name="typeofstructure">Type Of Structure:</string>
+    <string name="structure">Structure:</string>
+    <string name="distance">Distance:</string>
+    <string name="price">Price:</string>
+    <string name="infoevent">INFO EVENT</string>
+    <string name="organizer">Organiser:</string>
+    <string name="numberofpartecipants">Number of partecipants:</string>
+    <string name="freePlaces">Free places:</string>
+    <string name="willplayonrole">You will play in the role:</string>
+    <string name="date">Date:</string>
+</resources>

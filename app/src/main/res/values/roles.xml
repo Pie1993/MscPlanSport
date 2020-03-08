@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role_calcio">
+        <item>Select a role</item>
+        <item>POR</item>
+        <item>DIF</item>
+        <item>CEN</item>
+        <item>ATT</item>
+    </string-array>
+
+    <string-array name="role_tennis">
+        <item>TEN</item>
+    </string-array>
+
+    <string-array name="no_role">
+        <item>Select a role</item>
+    </string-array>
+</resources>

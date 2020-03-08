@@ -1,0 +1,55 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<resources>
+    <string-array name="sports">
+        <item>Bandy</item>
+        <item>Baseball</item>
+        <item>Beachsoccer</item>
+        <item>Beachvolley</item>
+        <item>Bob</item>
+        <item>Bocce</item>
+        <item>Broomball</item>
+        <item>Calcio</item>
+        <item>Calciotto</item>
+        <item>Calcetto</item>
+        <item>Calciogaelico</item>
+        <item>Canoapolo</item>
+        <item>Cricket</item>
+        <item>Croquet</item>
+        <item>Curling</item>
+        <item>Floorball</item>
+        <item>Footballamericano</item>
+        <item>Footballaustraliano</item>
+        <item>Footballcanadese</item>
+        <item>Footballsala</item>
+        <item>Ginnastica</item>
+        <item>Ginnasticaartistica</item>
+        <item>Ginnasticaritmica</item>
+        <item>Giocodiguadagno-campo</item>
+        <item>Goalball</item>
+        <item>Hockey</item>
+        <item>Hurling</item>
+        <item>Korfball</item>
+        <item>Lacrosse</item>
+        <item>Netball</item>
+        <item>Nuotosincronizzato</item>
+        <item>Paintball</item>
+        <item>Pallabasca</item>
+        <item>Pallacanestro</item>
+        <item>Pallamano</item>
+        <item>Pallanuoto</item>
+        <item>Pallapugno</item>
+        <item>Pallavolo</item>
+        <item>Pallonecolbracciale</item>
+        <item>Rollerderby</item>
+        <item>Rugby</item>
+        <item>Slittino</item>
+        <item>Softball</item>
+        <item>Tamburello</item>
+        <item>Tchoukball</item>
+        <item>Tennis da spiaggia</item>
+        <item>Touchrugby</item>
+        <item>Trampolinoelastico</item>
+        <item>Ultimate</item>
+        <item>Tennis</item>
+    </string-array>
+</resources>
